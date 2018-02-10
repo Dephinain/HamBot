@@ -1,0 +1,13 @@
+{
+  "name": "HamBot",
+  "version": "1.0.0",
+  "description": "discord bot hopeful",
+  "main": "bot.js",
+  "author": "Deph/Boogius",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^22.2.0",
+    "winston": "^2.4.0"
+  }
+}
